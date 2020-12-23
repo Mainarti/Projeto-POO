@@ -1,7 +1,4 @@
 package projeto;
-
-import java.util.ArrayList;
-
 /**
  *
  * @author Mainarti
@@ -11,7 +8,7 @@ public class Vendas
    private String idvenda;  
    private float valortotal;
    private String date;
-   public String aux;
+   private String aux;
      
    public Vendas()
    {
@@ -25,7 +22,7 @@ public class Vendas
     */
    public void GerarExtrato()    
    {
-        System.out.println(this.toString() );
+        System.out.println(this.toString());
    }
    @Override
    public String toString()

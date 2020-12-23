@@ -1,4 +1,4 @@
-/**Classe para objetos do tipo Funcionários, onde serão contidos, valores e métodos para o mesmo.
+/**
 * @author Mainarti
 * @version 1.0
 */
